@@ -6,8 +6,8 @@ Flextape but it's python!
 
 ```python
 from flextape import flextape
-print(flextape.slap(["I sawed this ", "boat in half!"]))
-print(flextape.slap(["I used ", str(10), " coats of Flex Seal on my air boat!"]))
+print(flextape.slap(["I sawed this ", "boat in half!"])) #  returns "I sawed this boat in half!"
+print(flextape.slap(["I used ", 10, " coats of Flex Seal on my air boat!"])) #  returns "I used 10 coats of Flex Seal on my air boat!"
 ```
 
 # Note
