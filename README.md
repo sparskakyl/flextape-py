@@ -1,3 +1,5 @@
+[![PyPI version](https://badge.fury.io/py/flextape.py.svg)](https://badge.fury.io/py/flextape.py)
+
 # Flextape.py
 
 Flextape but it's python!
