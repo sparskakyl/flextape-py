@@ -9,6 +9,6 @@ def slap(args):
     if type(arg) is list:
       returnstr += list.join(" ")
     else:
-      returnstr += arg
+      returnstr += str(arg)
   return str(returnstr)
 
