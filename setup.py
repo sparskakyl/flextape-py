@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='flextape.py',
-    version='0.0.1',
+    version='0.0.2',
     description='Flextape but it\'s python.',
     license='MIT',
     packages=['flextape'],
