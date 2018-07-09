@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 class __list_flextape(list): 
   def join(self, s):
     return s.join(self)
